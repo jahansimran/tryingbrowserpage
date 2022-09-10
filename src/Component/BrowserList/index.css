@@ -1,0 +1,36 @@
+.list-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.delete-btn {
+  background-color: #ffffff;
+  border-width: 0px;
+}
+.list-item-text-container {
+  display: flex;
+  flex-direction: row;
+}
+.time-access {
+  margin-right: 50px;
+  color: #000000;
+  font-size: 13px;
+}
+.domain-logo {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.domain-title {
+  font-family: Roboto;
+  font-size: 13px;
+  color: #000000;
+  font-weight: 500;
+}
+.domain-url {
+  font-family: Roboto;
+  font-size: 13px;
+  color: #64748b;
+  margin-left: 5px;
+}
